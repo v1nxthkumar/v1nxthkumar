@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | 💻 Java & React Enthusiast
 
-I am a passionate **Full Stack Developer** currently pursuing **M.Sc. Computer Science (Final Year, Final Semester)** in **Tamil Nadu, India**.  
+I am a passionate **Full Stack Developer** currently pursuing **M.Sc. Computer Science** in **Tamil Nadu, India**.  
 I enjoy building scalable backend services and modern, responsive web applications. My primary focus is on **Java Spring Boot** for backend development and **React.js** for frontend applications.
 
 ---
