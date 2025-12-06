@@ -31,22 +31,6 @@ I enjoy building scalable backend services and modern, responsive web applicatio
 
 ---
 
-### 🏗️ Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Full Stack CRUD App** | User management system with login & CRUD operations | Spring Boot, React, MySQL |
-| **E-Commerce UI** | Frontend for shopping experience | React, Redux |
-| **Task Manager API** | REST API with authentication | Java, Spring Boot |
-
----
-
-### 📫 Contact & Links
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Your LinkedIn URL](#)
-- **GitHub:** [github.com/yourusername](#)
-
----
-
 ### ⚡ Interests
 - Building real-world products
 - Exploring system design & cloud technologies
@@ -55,9 +39,5 @@ I enjoy building scalable backend services and modern, responsive web applicatio
 ---
 
 ### ✨ Quote I Follow
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-### ⭐ If you like my work, consider giving a star on repositories!
+> *"Do whatever the f*ck it takes to reach your goals — nobody’s coming to save you."*
 
