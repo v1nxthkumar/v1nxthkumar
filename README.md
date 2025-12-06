@@ -1,40 +1,16 @@
-# 👋 Hi, I'm Vinothkumar
+# Hi, I'm Vinothkumar 👋
 
-### 🚀 Full Stack Developer | 💻 Java & React Enthusiast
+### Full Stack Developer
 
-I am a passionate **Full Stack Developer** currently pursuing **M.Sc. Computer Science** in **Tamil Nadu, India**.  
-I enjoy building scalable backend services and modern, responsive web applications. My primary focus is on **Java Spring Boot** for backend development and **React.js** for frontend applications.
-
----
-
-### 🧠 Skills & Technologies
-
-#### **Frontend**
-- React.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
-
-#### **Backend**
-- Java, Spring Boot, Spring MVC, REST API, Microservices
-
-#### **Database**
-- MySQL, PostgreSQL, SQL Server
-
-#### **Tools & DevOps**
-- Git, GitHub, Postman, Maven, VS Code, IntelliJ IDEA
+I am a results-driven Full Stack Developer specializing in building scalable, reliable, and high-performance applications. I am passionate about engineering clean architectures, solving complex problems, and delivering meaningful digital solutions that create real impact.
 
 ---
 
-### 📌 About Me
-- 🎓 Pursuing **M.Sc. Computer Science**
-- 🌱 Currently improving **Spring Boot Microservices & Cloud (AWS basics)**
-- 🤝 Open to collaboration on **Full Stack Projects** and **API Development**
-- 📍 Based in **Tamil Nadu, India**
-
----
-
-### ⚡ Interests
-- Building real-world products
-- Exploring system design & cloud technologies
-- Open-source contributions
+### ✨ Professional Focus
+- Designing and developing end-to-end web applications with strong architectural foundations
+- Implementing secure, optimized backend systems and RESTful services
+- Creating intuitive, responsive, and high-quality user interfaces
+- Continuously advancing technical expertise through hands-on projects and research
 
 ---
 
