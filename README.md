@@ -15,5 +15,5 @@ I am a results-driven Full Stack Developer specializing in building scalable, re
 ---
 
 ### Quote I Follow
-> *"Do whatever the f*ck it takes to reach your goals — nobody’s coming to save you."
+> *"Growth begins where your comfort zone ends."
 
