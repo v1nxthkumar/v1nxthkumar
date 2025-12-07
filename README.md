@@ -15,5 +15,5 @@ I am a results-driven Full Stack Developer specializing in building scalable, re
 ---
 
 ### Quote I Follow
-> *"Growth begins where your comfort zone ends."
+> "Growth begins where your comfort zone ends."
 
