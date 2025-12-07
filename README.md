@@ -1,4 +1,4 @@
-# Hi, I'm Vinothkumar 👋
+# Hi, I'm Vinothkumar
 
 ### Full Stack Developer
 
@@ -6,7 +6,7 @@ I am a results-driven Full Stack Developer specializing in building scalable, re
 
 ---
 
-### ✨ Professional Focus
+### Professional Focus
 - Designing and developing end-to-end web applications with strong architectural foundations
 - Implementing secure, optimized backend systems and RESTful services
 - Creating intuitive, responsive, and high-quality user interfaces
@@ -14,6 +14,6 @@ I am a results-driven Full Stack Developer specializing in building scalable, re
 
 ---
 
-### ✨ Quote I Follow
+### Quote I Follow
 > *"Do whatever the f*ck it takes to reach your goals — nobody’s coming to save you."*
 
